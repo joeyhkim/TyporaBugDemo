@@ -11,7 +11,7 @@ According to the Typora documentation [here](https://support.typora.io/Resize-Im
 <img src="url" width="200px" />
 ```
 
-Such resizing is supported by GitHub and GitLab, but the images are not resizing properly in the Typora view. Changing the width attribute has no effect in Typora, but the changes reflect accurately on GitHu. 
+Such resizing is supported by GitHub and GitLab, but the images are not resizing properly in the Typora view. Changing the width attribute has no effect in Typora, but the changes reflect accurately on GitHub. 
 
 For example, the following two images should be different sizes, but in the Typora view, they are exactly the same size:
 
