@@ -21,4 +21,4 @@ For example, the following two images should be different sizes, but in the Typo
 
 ### Image Resizing with the Style Attribute
 
-Image size changes made using the style attribute do reflect accurately in the Typora view. Unfortunately, GitHub and GitlLab markdown do not support this attribute.
+Image size changes made using the style attribute do reflect accurately in the Typora view. Unfortunately, GitHub and GitLab markdown do not support this attribute.
